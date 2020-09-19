@@ -133,4 +133,4 @@ Facebook even dedicated a purely to data to it in [their new machine learning fi
 
 Also, if you're interested in machine learning and programming, I usually tweet whatever interesting stuff I stumble upon at [@JoakimRi](https://twitter.com/JoakimRi).
 
-Thanks to [Thorkild Stray](https://twitter.com/thorkilds) and [Simen Eide](https://twitter.com/simeneide) for reviewing earlier drafts of the post, and providing feedback!
+Thanks to [Thorkild Stray](https://twitter.com/thorkilds) and [Simen Eide](https://twitter.com/simeneide) for reviewing earlier drafts of the post, and providing feedback.!
